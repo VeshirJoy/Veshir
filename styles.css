@@ -1,0 +1,172 @@
+#title{
+  background-color: #E0D09E;
+}
+
+h1{
+  font-family: 'Lato', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+body{
+  font-family: 'Lato',sans-serif;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+ /* Navigation Bar */
+
+.navbar-brand{
+  font-family: 'Ubuntu',sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding-bottom: 5rem;
+}
+
+.nav-item{
+  padding: 0 10px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+}
+
+/* Download Buttons  */
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.logo-image{
+  position: absolute;
+  width: 70%;
+}
+
+/* Media Query */
+
+@media (max-width: 1028px){
+
+#title{
+  text-align: center;
+}
+
+.logo-image{
+  position: static;
+}
+
+}
+
+/* Feature Section */
+
+#features{
+  padding: 7% 15%;
+  background-color: white;
+  position:relative;
+  z-index: 1;
+
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.text-feat{
+  color: black;
+  margin: 10px 0 0 0;
+}
+
+.text-but{
+  color: black;
+}
+
+.features{
+  padding: 100px 60px 80px 60px;
+}
+
+.fas{
+  color: black;
+  margin-top: 10%;
+}
+
+.fas:hover{
+  color: gold;
+}
+
+/* Testimonial Section  */
+
+#testimonials{
+  text-align: center;
+  background-color:  #C2B280;
+  color: black;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+/* Press Section */
+
+#press{
+  background-color:  #C2B280;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#Pricing{
+  background: #C2B280;
+}
+
+  .container{
+  padding: 5% 0;
+  text-align: center;
+}
+
+.cardcontainer{
+  text-align: center;
+  padding: 0% 5% 5%;
+}
+
+.card{
+  margin-bottom: 3%;
+}
+
+/* Call to Action Section */
+
+#cta{
+  background-color: #C2B280;
+  padding: 5% 0;
+}
+
+/* Footer Section */
+
+#footer{
+  padding-left:
+}
